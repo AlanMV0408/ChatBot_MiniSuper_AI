@@ -1,0 +1,1 @@
+writeHelloWorld :- write('Hello Wordl').
