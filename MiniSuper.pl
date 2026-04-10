@@ -36,6 +36,21 @@ producto('Salchicha', 'FUD', 'Pavo', '500gr', 50.00, 'N/A').
 producto('Salchicha', 'LALA', 'Pavo', '500gr', 70.00, 'N/A').
 
 
+% ---------- Hogar y Limpieza ----------
+
+% Detergente en Polvo 
+% producto('Detergente Polvo', 'Roma', 'Biodegradable', '1kg', 35.00, 'N/A').
+% producto('Detergente Polvo', 'Foca', 'Biodegradable', '1kg', 40.00, 'N/A').
+% producto('Detergente Polvo', 'Salvo', 'Biodegradable Multiusos', '1kg', 36.00, 'N/A').
+
+% Papel Higienico
+% producto('Detergente Polvo', 'Petalo', 'Ultraresistente', '4pz', 33.00, 'N/A').
+% producto('Detergente Polvo', 'Vogue', 'Rendidor', '4pz', 27.00, 'N/A').
+% producto('Detergente Polvo', 'Premier', 'MAX', '4pz', 35.00, 'N/A').
+
+
+
+
 
 
 
