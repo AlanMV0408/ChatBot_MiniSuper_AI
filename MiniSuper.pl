@@ -209,3 +209,15 @@ producto('Vinos', 'Riunite', 'Lambrusco', '750ml', 165.00, 'Rosado').
 
 
 writeHelloWorld :- write('Hello Wordl').
+
+
+% REGLAS DE UBICACIÓN (Basado en el Layout)
+
+% Definimos qué categorías pertenecen a qué pasillo según el mapa
+ubicacion_pasillo(1, ['Cacahuates', 'Papas', 'Chicles', 'Galletas', 'Mentas', 'Chocolate']).
+ubicacion_pasillo(2, ['Aceite', 'Arroz', 'Frijol', 'Pastas', 'Cafe', 'Azucar', 'Pan', 'Salsas', 'Aderezos']).
+ubicacion_pasillo(3, ['Detergente Polvo', 'Blanqueador', 'Papel Higienico', 'Platos', 'Vasos']).
+ubicacion_pasillo(4, ['Maquillaje', 'Cremas', 'Shampoo', 'Pañales', 'Paracetamol', 'Desodorante', 'Antiacido']).
+ubicacion_pasillo(5, ['Crema', 'Salchicha', 'Jamon', 'Chorizo', 'Queso', 'Leche', 'Mantequilla']).
+ubicacion_pasillo(6, ['Refresco', 'Agua', 'Suero', 'Cerveza', 'Vinos']).
+
