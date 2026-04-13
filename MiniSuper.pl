@@ -89,9 +89,9 @@ producto('Blanqueador', 'Cloralex', 'El Rendidor', '950ml', 18.50, 'N/A').
 producto('Blanqueador', 'Clorox', 'Anti-esplash', '930ml', 22.00, 'N/A').
 
 % Papel Higienico
-producto('Detergente Polvo', 'Petalo', 'Ultraresistente', '4pz', 33.00, 'N/A').
-producto('Detergente Polvo', 'Vogue', 'Rendidor', '4pz', 27.00, 'N/A').
-producto('Detergente Polvo', 'Premier', 'MAX', '4pz', 35.00, 'N/A').
+producto('Papel Higienico', 'Petalo', 'Ultraresistente', '4pz', 33.00, 'N/A').
+producto('Papel Higienico', 'Vogue', 'Rendidor', '4pz', 27.00, 'N/A').
+producto('Papel Higienico', 'Premier', 'MAX', '4pz', 35.00, 'N/A').
 
 % Platos
 producto('Platos', 'Reyma', 'Pastelero No. 6', '20 piezas', 25.00, 'Desechable').
